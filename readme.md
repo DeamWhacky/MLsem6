@@ -1,0 +1,2 @@
+day1 :
+just created a pandas dataframe, added some random data and then exported it to a csv file.
