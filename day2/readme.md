@@ -1,0 +1,3 @@
+A demonstration of different ways to collect data for Machine Learning with real life example and push it into github.
+
+these are the methods our teacher mentioned, first to collect data from sql databases, next to collect data from csv files, next to collect data from rest api, web scraping, dynamic scraping using selenium, collect streaming data using kafka, iot or sensor data, collect image from a local folder, collect text file, collect from audio, collect log file, collect from json data
