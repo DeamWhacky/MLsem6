@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 
 data = [
@@ -11,6 +12,10 @@ data = [
 
 df = pd.DataFrame(data)
 
-print(df.head())
+script_dir = os.path.dirname(os.path.abspath(__file__))
 
-df.to_csv('student_records.csv')
+csv_path = os.path.join(script_dir, "student_records.csv")
+
+df.to_csv(csv_path, index=False)
+
+print(f"CSV saved at: {csv_path}")
