@@ -1,0 +1,16 @@
+# VS Code config
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Conda or venv environments (if stored in project)
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment export files (optional)
+*.env
