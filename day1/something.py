@@ -7,7 +7,7 @@ data = [
     {'name': 'Aveerup', 'branch': 'IT', 'year': 2, 'cgpa': 8.4},
     {'name': 'Bibek', 'branch': 'EE', 'year': 1, 'cgpa': 8.1},
     {'name': 'Sayantan', 'branch': 'ECE', 'year': 3, 'cgpa': 7.8},
-    {'name': 'Sagnik', 'branch': 'ECE', 'year': 2, 'cgpa': 9.1}
+    {'name': 'Sagnik', 'branch': 'ECE', 'year': 2, 'cgpa': 6.1}
 ]
 
 df = pd.DataFrame(data)
