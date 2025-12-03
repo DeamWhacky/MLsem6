@@ -1,0 +1,7 @@
+{
+  "students": [
+    {"name": "Soumyadeep", "branch": "CSE", "year": 3, "cgpa": 8.98},
+    {"name": "Siddhart",  "branch": "CSE", "year": 3, "cgpa": 9.1},
+    {"name": "Aveerup",   "branch": "IT",  "year": 2, "cgpa": 8.4}
+  ]
+}
